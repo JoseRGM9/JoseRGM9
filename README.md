@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagen.jpg" alt="Descripción de la imagen" width="400"/>
+  <img src="imagen.jpg" alt="Descripción de la imagen" width="600"/>
 </p>
 
 <h1 align="center">Hola 👋, soy Jose Guerrero Masip</h1>
