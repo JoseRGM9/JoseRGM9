@@ -19,7 +19,7 @@
 Aplicación web diseñada para entrenadores personales y sus clientes.</br>
 -El entrenador puede publicar la dieta, rutina y videos de entrenamiento para sus clientes, ademas de tener un chat en linea para mantener todo ordenado dentro de la aplicación y no tener que usar otras aplicaciones de mensajeria.</br>
 -Los usuarios pueden contratar a su entrenador y al ser clientes pueden ver la dieta, rutina y videos que el entrenador le publica, ademas de tener un chat en linea para cualquier duda que quieran preguntar.</br>
--Sigo trabajando en este proyecto actualmente para optimizarlo lo mas que pueda.
+-Sigo trabajando en este proyecto actualmente para seguir optimizandolo.
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josergm9&show_icons=true&locale=en" alt="josergm9" /></p>
 
