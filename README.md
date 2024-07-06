@@ -5,7 +5,7 @@
 <h1 align="center">Hola 👋, Soy Jose Guerrero</h1>
 <h3 align="center">Un desarrollador de software full stack, con liderazgo y capaz de trabajar en equipo, muy organizado para llevar las mejores prácticas de programación, abierto a nuevas oportunidades y conocimientos.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta Conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/josergm9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josergm9" height="30" width="40" /></a>
 </p>
