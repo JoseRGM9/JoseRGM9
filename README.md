@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/workspaces/JoseRGM9/imagen full.jpg" alt="Descripción de la imagen" width="400"/>
+</p>
+
 <h1 align="center">Hola 👋, soy Jose Guerrero Masip</h1>
 <h3 align="center">Un desarrollador de software full stack, con liderazgo y capaz de trabajar en equipo, muy organizado para llevar las mejores prácticas de programación, abierto a nuevas oportunidades y conocimientos.</h3>
 
