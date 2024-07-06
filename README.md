@@ -16,8 +16,8 @@
 
 ## Proyecto Destacado
 ### [Fit Titans](https://github.com/4GeeksAcademy/Team-Dinamita-FitTitans)
-Aplicación web diseñada para entrenadores personales y sus clientes
-El entrenador puede publicar la dieta, rutina y videos de entrenamiento para sus clientes, ademas de tener un chat en linea para mantener todo ordenado dentro de la aplicación y no tener que usar otras aplicaciones de mensajeria.
+Aplicación web diseñada para entrenadores personales y sus clientes</br>
+El entrenador puede publicar la dieta, rutina y videos de entrenamiento para sus clientes, ademas de tener un chat en linea para mantener todo ordenado dentro de la aplicación y no tener que usar otras aplicaciones de mensajeria.</br>
 Los clientes pueden contratar a su entrenador y después ver la dieta, rutina y videos que el entrenador le publica, ademas de tener un chat en linea para cualquier duda que quieran preguntar.
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josergm9&show_icons=true&locale=en" alt="josergm9" /></p>
