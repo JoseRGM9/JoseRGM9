@@ -2,7 +2,7 @@
   <img src="imagen.jpg" alt="Descripción de la imagen" width="700"/>
 </p>
 
-<h1 align="center">Hola 👋, soy Jose Guerrero Masip</h1>
+<h1 align="center">Hola 👋, soy Jose Guerrero</h1>
 <h3 align="center">Un desarrollador de software full stack, con liderazgo y capaz de trabajar en equipo, muy organizado para llevar las mejores prácticas de programación, abierto a nuevas oportunidades y conocimientos.</h3>
 
 <h3 align="left">Connect with me:</h3>
