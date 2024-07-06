@@ -16,6 +16,11 @@
 
 <h3 align="left">Proyectos Destacados:</h3>
 
+## Proyecto Destacado
+
+### [Sistema de Gestión de Tareas](https://github.com/JoseRGM9/sistema-de-gestion-de-tareas)
+Un sistema completo para gestionar tareas, con funcionalidades de creación, edición y eliminación de tareas, además de la posibilidad de asignar prioridades y fechas límite.
+
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josergm9&show_icons=true&locale=en" alt="josergm9" /></p>
 
