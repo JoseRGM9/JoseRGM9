@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Jose Guerrero Masip</h1>
-<h3 align="center">Un desarrollador de software full stack, con liderazgo y capaz de trabajar en equipo, muy organizado para llevar a cabo las mejores prácticas de programación, abierto a nuevas oportunidades y conocimientos.</h3>
+<h3 align="center">Un desarrollador de software full stack, con liderazgo y capaz de trabajar en equipo, muy organizado para llevar a cabo las mejores prácticas de programación, 
+abierto a nuevas oportunidades y conocimientos.</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
