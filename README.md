@@ -8,8 +8,12 @@
 
 ## Conecta Conmigo:
 <p align="left">
-<a href="https://linkedin.com/in/josergm9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josergm9" height="30" width="40" /></a>
-[![Email](https://img.shields.io/badge/Email-me@example.com-red)](mailto:josergm89@gmail.com)
+  <a href="https://linkedin.com/in/josergm9" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josergm9" height="30" width="40" />
+  </a>
+  <a href="mailto:josergm89@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-josergm89@gmail.com-red" alt="Email me" height="30" width="40" />
+  </a>
 </p>
 
 ## Lenguajes y Herramientas:
